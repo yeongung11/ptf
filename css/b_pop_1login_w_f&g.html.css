@@ -1,0 +1,91 @@
+@import url('a_1web_common.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet');
+
+body .popup_box {
+    width: 50%;
+}
+
+.popup_box .every {
+    width: 100%;
+    height: 100%;
+
+}
+
+form {margin: 0;}
+
+form .title_1 {
+    width: 100%;
+    font-family: 'Roboto';
+    font-size: 7vw;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+    margin-top: 5%;
+
+}
+
+form .first {
+    margin: 5% auto;
+}
+
+form .first p {
+    font-family: 'Roboto';
+    font-size: 2.5vw;
+    line-height: 1.5;
+    color: #000000;
+    text-align: center;
+}
+
+form .first p a {
+    color: #1bc89d;
+}
+form .first p a:hover {
+    font-weight: bold;
+}
+
+form .log_face_google {
+    width: 80%;
+    margin: 8% auto;
+}
+
+form .log_face_google a img {
+    width: 100%;
+}
+
+.or{
+    width:70%;
+    border: none;
+    border-top: 2px solid #000;
+    margin: 8% auto;
+}
+
+
+form .email {
+    
+    margin:5% auto;
+    padding: 2% 0;
+    width: 70%;
+    border: 3px solid black;
+}
+
+.or legend{
+    text-align: center;
+    font-size: 1.7vw;
+}
+
+form .email a {
+}
+
+form .email a p {
+    
+    font-family: 'Roboto';
+    font-size: 2.5vw;
+    font: bold;
+    text-align: center;
+    color: #000000;
+    
+}
+
+form .email a p:hover {
+    font-weight: bold;
+}

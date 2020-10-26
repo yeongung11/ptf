@@ -1,0 +1,115 @@
+@import url('a_1web_common.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet');
+
+body {}
+
+.popup_box {
+    width: 60%;
+}
+
+.popup_box .every {
+    width: 90%;
+    margin: 0 auto;
+}
+
+form {}
+
+
+.popup_box .every form .title_1 {
+
+    font-family: 'Roboto';
+    font-size: 3.3vw;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+margin: 10% 0;
+}
+
+.popup_box .every form .first {}
+
+.popup_box .every form .first p {
+    font-family: 'Roboto';
+    font-size: 2vw;
+    color: #6c6c6c;
+    
+}
+
+.popup_box .every form .first input {
+
+    width: 100%;
+    padding: 3%;
+    border: 1px  solid #000000;
+    background-color: #ffffff;
+}
+
+.popup_box .every form .last {}
+
+.popup_box .every form .last p {
+
+   font-family: 'Roboto';
+    font-size: 2vw;
+    color: #6c6c6c;
+    margin-top: 5%;
+
+}
+
+.popup_box .every form .last input {
+
+     width: 100%;
+    padding: 3%;
+    border: 1px  solid #000000;
+    background-color: #ffffff;
+}
+
+.popup_box .every form .email {}
+
+.popup_box .every form .email p {
+
+ font-family: 'Roboto';
+    font-size: 2vw;
+    color: #6c6c6c;
+margin-top: 5%;
+
+}
+
+.popup_box .every form .email input {
+
+    width: 100%;
+    padding: 3%;
+    border: 1px  solid #000000;
+    background-color: #ffffff;
+
+}
+
+.popup_box .every form .password {}
+
+.popup_box .every form .password p {
+
+   font-family: 'Roboto';
+    font-size: 2vw;
+    color: #6c6c6c;
+margin-top: 5%;
+
+}
+
+.popup_box .every form .password input {
+
+     width: 100%;
+    padding: 3%;
+    border: 1px  solid #000000;
+    background-color: #ffffff;
+}
+
+.create {
+    width:90%;
+   margin: 14% auto;
+    text-align: center;
+}
+
+.create a {
+    padding: 4% 8%;
+    background: #000000;
+    color: white;
+    font-size: 2vw;
+    font-weight: bold;
+}

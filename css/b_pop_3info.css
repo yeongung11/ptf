@@ -1,0 +1,58 @@
+@import url('a_1web_common.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet');
+
+body .popup_box {
+    width: 60%;
+}
+
+.popup_box .every {
+    width: 100%;
+    height: 100%;
+}
+
+form {}
+
+form .title_1 {
+    width: 30%;
+    margin: 0 auto;
+    border:2px solid #000;
+    border-radius: 100%;
+}
+form .title_1 img {
+    width: 100%;
+}
+
+form .first{
+    width: 100%;
+    margin: 5% auto;
+}
+form .first p{
+    text-align: center;
+    font-size: 2.5vw;
+    line-height: 1.6;
+}
+form .first table{
+    margin: 8% auto;
+    text-align: center;
+   font-size: 2.5vw;
+    width: 80%;
+}
+form .first table tbody{
+   }
+
+form .first table tr{
+   
+    
+}
+
+form .first table tr td{
+     padding-top: 5%;
+}
+form .first table tr:nth-of-type(1) td{
+     padding-top: 0%;
+}
+
+form .first table tr td a{
+    color: #FF6F77;
+    
+}
